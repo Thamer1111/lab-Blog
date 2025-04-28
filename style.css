@@ -171,10 +171,6 @@ body {
 .Tags-contant p {
   background-color: #dcd9d9;
 }
-.tag-selected{
-  background-color: rgb(0, 0, 0);
-  color: white;
-}
 /* artical end */
 .footer{
   background-color: #616161;
